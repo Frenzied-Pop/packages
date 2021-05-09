@@ -2934,6 +2934,28 @@
             }
         ]
     },
+    "208580": {
+        "game_name": "STAR WARS™ - Knights of the Old Republic™ II:The Sith Lords",
+        "download": [
+            {
+                "name": "reone",
+                "url": "https://github.com/luxtorpeda-dev/packages/releases/download/reone-14/",
+                "file": "reone-32370-14.tar.xz"
+            }
+        ],
+        "command": "./run-kotor1.sh",
+        "information": {
+            "store_link": "https://store.steampowered.com/app/208580",
+            "engine_name": "reone",
+            "engine_link": "https://github.com/seedhartha/reone",
+            "version": "0.18.0",
+            "comments": "Engine is still in progress so not all features may be implemented.",
+            "author": "d10sfan",
+            "author_link": "https://github.com/d10sfan",
+            "license": "GPLv3",
+            "license_link": "https://github.com/seedhartha/reone/blob/master/COPYING"
+        }
+    },
     "209670": {
         "game_name": "Cortex Command",
         "download": [
